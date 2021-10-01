@@ -71,11 +71,11 @@ img {
 .section {
   padding: 94px 0;
 }
-.link {
+a {
   text-decoration: none;
 }
-link:hover,
-link:focus {
+a:hover,
+a:focus {
   color: var(--accent-color);
 }
 
@@ -149,6 +149,7 @@ link:focus {
 
 .header-contacts-list {
   display: flex;
+  align-items: center;
   margin-left: auto;
 }
 .header-contacts-list .header-contacts-item + .header-contacts-item {
