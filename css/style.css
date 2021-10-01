@@ -490,7 +490,7 @@ a:focus {
 }
 
 .footer-social-icon {
-  fill: #FFFFFF;
+  fill: #ffffff;
 }
 
 .footer-social-logo-link:focus,
@@ -501,14 +501,14 @@ a:focus {
 .footer-social-logo-link:focus .command-icon,
 .footer-social-logo-link:hover .command-icon {
   fill: #ffffff;
-
+}
 
 /* --------- PORTFOLIO ------------ */
 .portfolio-filter {
   display: flex;
   justify-content: center;
   margin-bottom: 50px;
-} 
+}
 .portfolio-filter .filter-item + .filter-item {
   margin-left: 8px;
 }
@@ -567,10 +567,4 @@ a:focus {
   border-bottom: 1px solid #eeeeee;
   border-left: 1px solid #eeeeee;
   border-right: 1px solid #eeeeee;
-}
-
-/* test portfolio css  */
-
-.portfolio-filter.list{
-  display: flex;
 }
